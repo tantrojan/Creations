@@ -11,7 +11,7 @@ Posters
 </p>
 <p align="center">
   <img src="gandhi_jayanti.jpg" width="200"/>
-  <img src="Scholarship_exam.jpg" width="200"/>
+  <img src="Scholarship._exam.jpg" width="200"/>
 </p>
 <p align="center">
   <img src="Diwali.jpg" width="200"/>
